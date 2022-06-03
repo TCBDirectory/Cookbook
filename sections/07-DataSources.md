@@ -204,6 +204,7 @@ You can find the articles on the bottom of this section to read more. They inclu
 - [Plenar.io](http://plenar.io/)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 - [Yelp Open Datasets](https://www.yelp.com/dataset)
+- [The Cook Book - Directory Listing Datasets](https://directory.thecookbook.pk)
 
 
 ## Source Articles and Blog Posts
